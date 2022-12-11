@@ -1,3 +1,4 @@
 picture img {
+   height: inherit !important;
    width: inherit !important;
 }
